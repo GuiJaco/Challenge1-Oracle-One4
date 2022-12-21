@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/%7BChallenge1-Oracle-One4%7D/static/css/main.f650c94c.css",
-    "main.js": "/%7BChallenge1-Oracle-One4%7D/static/js/main.e58f63c7.js",
-    "static/media/image-not-found.svg": "/%7BChallenge1-Oracle-One4%7D/static/media/image-not-found.cd57497a937c57681e0c30c45b9d3db9.svg",
-    "index.html": "/%7BChallenge1-Oracle-One4%7D/index.html",
-    "main.f650c94c.css.map": "/%7BChallenge1-Oracle-One4%7D/static/css/main.f650c94c.css.map",
-    "main.e58f63c7.js.map": "/%7BChallenge1-Oracle-One4%7D/static/js/main.e58f63c7.js.map"
+    "main.css": "/Challenge1-Oracle-One4/static/css/main.f650c94c.css",
+    "main.js": "/Challenge1-Oracle-One4/static/js/main.7bdcb028.js",
+    "static/media/image-not-found.svg": "/Challenge1-Oracle-One4/static/media/image-not-found.cd57497a937c57681e0c30c45b9d3db9.svg",
+    "index.html": "/Challenge1-Oracle-One4/index.html",
+    "main.f650c94c.css.map": "/Challenge1-Oracle-One4/static/css/main.f650c94c.css.map",
+    "main.7bdcb028.js.map": "/Challenge1-Oracle-One4/static/js/main.7bdcb028.js.map"
   },
   "entrypoints": [
     "static/css/main.f650c94c.css",
-    "static/js/main.e58f63c7.js"
+    "static/js/main.7bdcb028.js"
   ]
 }
