@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7BChallenge1-Oracle-One4%7D/static/css/main.f650c94c.css",
+    "main.js": "/%7BChallenge1-Oracle-One4%7D/static/js/main.e58f63c7.js",
+    "static/media/image-not-found.svg": "/%7BChallenge1-Oracle-One4%7D/static/media/image-not-found.cd57497a937c57681e0c30c45b9d3db9.svg",
+    "index.html": "/%7BChallenge1-Oracle-One4%7D/index.html",
+    "main.f650c94c.css.map": "/%7BChallenge1-Oracle-One4%7D/static/css/main.f650c94c.css.map",
+    "main.e58f63c7.js.map": "/%7BChallenge1-Oracle-One4%7D/static/js/main.e58f63c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f650c94c.css",
+    "static/js/main.e58f63c7.js"
+  ]
+}
